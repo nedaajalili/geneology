@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513000168 source:/home/neda/Desktop/geneology/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
